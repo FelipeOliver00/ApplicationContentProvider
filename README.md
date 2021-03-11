@@ -1,0 +1,2 @@
+# ApplicationContentProvider
+Using provider resources
